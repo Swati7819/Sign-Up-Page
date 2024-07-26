@@ -25,9 +25,7 @@ The "Intro Component with Sign Up Form" page is designed to allow users to sign 
 
 
 ## Live-Link
-
-
-  
+You can view the live demo [here](https://singular-frangollo-3a1b10.netlify.app/)
 
 ## Acknowledgements
 Frontend Mentor for the challenge inspiration.
