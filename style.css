@@ -205,7 +205,8 @@ body .container {
 
 @media screen and (max-width: 600px) {
     body .container {
-        margin: 20px 50px;
+        margin-inline: 10px;
+        margin-block: 10px;
 
     }
 
