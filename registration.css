@@ -16,7 +16,8 @@ body {
 
 
 .container-2 {
-    margin: 100px auto;
+    margin-block: 100px;
+    margin-inline:10px;
     max-width: 400px;
     background-color: white;
     border-radius: 20px;
